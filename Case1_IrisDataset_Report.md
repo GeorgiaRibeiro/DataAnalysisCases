@@ -28,4 +28,4 @@ Já agrupando a variável categórica, verificamos que a distribuição de linha
 	
 ## Gráfico de Radar
 Avançando para os gráficos, o de radar nos permite comparar características entre as espécies. Inicialmente, comparamos as médias de comprimento e de largura entre elas.
-![Fig 1](1tF8-mF95WLroam2LRaaXfiWuFlPz_Pl9)
+![Fig 1](https://github.com/GeorgiaRibeiro/DataAnalysisCases/blob/main/output_iris/fig_1.png?raw=true)
