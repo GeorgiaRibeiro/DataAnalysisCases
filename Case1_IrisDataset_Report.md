@@ -1,10 +1,12 @@
 # Case 1 - Iris Dataset
+[Notebook de analise - Em breve](x)
+
 ## Base de Dados
 A base de dados Iris possui cinco variáveis (colunas) sobre flores do gênero Iris e contém 150 observações (linhas). Quanto às variáveis, são elas: 
 uma categórica, identificando a variedade ou espécie da flor e quatro numéricas, informando a largura e o comprimento da sépala e da pétala.
 A imagem abaixo indica a diferença entre os termos, caso você não soubesse — como 85% das pessoas.
 
-![Sepal_Petal](https://www.sakurai.dev.br/assets/images/posts/2018-10-17-classificacao-iris-03.png)
+![Sepal_Petal](https://www.sakurai.dev.br/assets/images/posts/2018-10-17-classificacao-iris-03.png = 512x)
 
 ## Métricas
 As variáveis numéricas apresentam os valores mínimos e máximos e as métricas de média, mediana e moda como a seguir:
