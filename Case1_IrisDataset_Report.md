@@ -27,5 +27,11 @@ Já agrupando a variável categórica, verificamos que a distribuição de linha
 
 	
 ## Gráfico de Radar
-Avançando para os gráficos, o de radar nos permite comparar características entre as espécies. Inicialmente, comparamos as médias de comprimento e de largura entre elas.
+A visualização nos permite avançar na descrição da base, ao destacar os pontos relevantes. O gráfico de radar nos permite comparar características entre as espécies. Inicialmente, comparamos as médias de largura (width) e de comprimento (length) entre cada uma delas.
 ![Fig 1](https://github.com/GeorgiaRibeiro/DataAnalysisCases/blob/main/output_iris/fig_1.png?raw=true)
+
+
+## Gráfico de Dispersão
+O gráfico anterior oferecia uma visão geral das características, ao agrupar por espécie e considerar a média das medidas estudadas. Já a visualização seguinte, oferece uma visão individual de cada observação entre as demais. Com isso, identificamos comportamentos fora do padrão (os chamados _"outliers"_) e possíveis correlações.
+
+... continua.
