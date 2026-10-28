@@ -18,7 +18,7 @@ As variáveis numéricas apresentam os valores mínimos e máximos e as métrica
 | Virginica  |           6.59 |          2.97 |           5.55 |          2.03 |
 
 	
-Já agrupando a variável categórica, verificamos que a distribuição de linha está balanceada entre espécies, isto é, todas possuem a mesma quantidade de observações.
+Já agrupando a variável categórica, verificamos que a distribuição de linhas está balanceada entre espécies, isto é, todas possuem a mesma quantidade de observações.
 | variety | Frequência Absoluta | Frequência Percentual (%) |
 | :--- | :---: | :---: |
 | **Setosa** | 50 | 33.33% |
@@ -27,5 +27,5 @@ Já agrupando a variável categórica, verificamos que a distribuição de linha
 
 	
 ## Gráfico de Radar
-Avançando para os gráficos, o de radar nos permite comparar características entre as espécies. Inicialmente comparamos a média de comprimento e largura entre elas.
-![Fig 1](https://drive.google.com/file/d/1tF8-mF95WLroam2LRaaXfiWuFlPz_Pl9/view?usp=sharing)
+Avançando para os gráficos, o de radar nos permite comparar características entre as espécies. Inicialmente, comparamos as médias de comprimento e de largura entre elas.
+![Fig 1](1tF8-mF95WLroam2LRaaXfiWuFlPz_Pl9)
